@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📚 Từ Điển Tiếng Anh - Học Sinh</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <i class="fas fa-book-open"></i>
+                <h1>Từ Điển Tiếng Anh</h1>
+            </div>
+            <p class="subtitle">Học từ vựng một cách thú vị và hiệu quả! 🎓</p>
+        </header>
+
+        <!-- Search Section -->
+        <section class="search-section">
+            <div class="search-container">
+                <div class="search-box">
+                    <i class="fas fa-search search-icon"></i>
+                    <input type="text" id="searchInput" placeholder="Nhập từ cần tìm... (ví dụ: apple, cat, house)">
+                    <button id="searchBtn" class="search-btn">
+                        <i class="fas fa-search"></i>
+                        Tìm kiếm
+                    </button>
+                </div>
+                <div class="search-options">
+                    <button id="randomBtn" class="random-btn">
+                        <i class="fas fa-random"></i>
+                        Từ ngẫu nhiên
+                    </button>
+                    <button id="allWordsBtn" class="all-words-btn">
+                        <i class="fas fa-list"></i>
+                        Tất cả từ
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Results Section -->
+        <section class="results-section" id="resultsSection">
+            <div class="welcome-message" id="welcomeMessage">
+                <div class="welcome-icon">
+                    <i class="fas fa-graduation-cap"></i>
+                </div>
+                <h2>Chào mừng đến với Từ Điển Tiếng Anh! 🎉</h2>
+                <p>Hãy bắt đầu tìm kiếm từ vựng hoặc khám phá từ ngẫu nhiên để học tiếng Anh một cách thú vị!</p>
+                <div class="welcome-features">
+                    <div class="feature">
+                        <i class="fas fa-search"></i>
+                        <span>Tìm kiếm từ vựng</span>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-random"></i>
+                        <span>Học từ ngẫu nhiên</span>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-volume-up"></i>
+                        <span>Phát âm chuẩn</span>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-lightbulb"></i>
+                        <span>Ví dụ thực tế</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="results-container" id="resultsContainer" style="display: none;">
+                <div class="results-header">
+                    <h3 id="resultsTitle">Kết quả tìm kiếm</h3>
+                    <span id="resultsCount" class="results-count"></span>
+                </div>
+                <div class="words-grid" id="wordsGrid"></div>
+            </div>
+        </section>
+
+        <!-- Loading -->
+        <div class="loading" id="loading" style="display: none;">
+            <div class="spinner"></div>
+            <p>Đang tìm kiếm...</p>
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>&copy; 2024 Từ Điển Tiếng Anh - Được tạo với ❤️ cho học sinh</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

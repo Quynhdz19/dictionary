@@ -1,0 +1,142 @@
+[
+    {
+        "word": "apple",
+        "pronunciation": "/ˈæpl/",
+        "meaning": "quả táo",
+        "example_en": "I eat an apple every morning.",
+        "example_vi": "Tôi ăn một quả táo mỗi sáng."
+    },
+    {
+        "word": "banana",
+        "pronunciation": "/bəˈnɑːnə/",
+        "meaning": "quả chuối",
+        "example_en": "Monkeys like eating bananas.",
+        "example_vi": "Khỉ thích ăn chuối."
+    },
+    {
+        "word": "cat",
+        "pronunciation": "/kæt/",
+        "meaning": "con mèo",
+        "example_en": "The cat is sleeping on the sofa.",
+        "example_vi": "Con mèo đang ngủ trên ghế sofa."
+    },
+    {
+        "word": "dog",
+        "pronunciation": "/dɒɡ/",
+        "meaning": "con chó",
+        "example_en": "My dog loves to play fetch.",
+        "example_vi": "Con chó của tôi thích chơi trò ném bóng."
+    },
+    {
+        "word": "elephant",
+        "pronunciation": "/ˈelɪfənt/",
+        "meaning": "con voi",
+        "example_en": "Elephants have long trunks.",
+        "example_vi": "Voi có cái vòi dài."
+    },
+    {
+        "word": "fish",
+        "pronunciation": "/fɪʃ/",
+        "meaning": "con cá",
+        "example_en": "We saw many colorful fish in the aquarium.",
+        "example_vi": "Chúng tôi thấy nhiều con cá đầy màu sắc trong bể cá."
+    },
+    {
+        "word": "grape",
+        "pronunciation": "/ɡreɪp/",
+        "meaning": "quả nho",
+        "example_en": "Grapes can be made into wine.",
+        "example_vi": "Nho có thể được làm thành rượu vang."
+    },
+    {
+        "word": "house",
+        "pronunciation": "/haʊs/",
+        "meaning": "ngôi nhà",
+        "example_en": "They live in a big house near the river.",
+        "example_vi": "Họ sống trong một ngôi nhà lớn gần con sông."
+    },
+    {
+        "word": "ice",
+        "pronunciation": "/aɪs/",
+        "meaning": "đá, băng",
+        "example_en": "Please put some ice in my drink.",
+        "example_vi": "Làm ơn bỏ ít đá vào đồ uống của tôi."
+    },
+    {
+        "word": "juice",
+        "pronunciation": "/dʒuːs/",
+        "meaning": "nước ép",
+        "example_en": "I like orange juice for breakfast.",
+        "example_vi": "Tôi thích nước cam cho bữa sáng."
+    },
+    {
+        "word": "book",
+        "pronunciation": "/bʊk/",
+        "meaning": "sách",
+        "example_en": "I love reading books in my free time.",
+        "example_vi": "Tôi thích đọc sách trong thời gian rảnh."
+    },
+    {
+        "word": "computer",
+        "pronunciation": "/kəmˈpjuːtər/",
+        "meaning": "máy tính",
+        "example_en": "Students use computers to do homework.",
+        "example_vi": "Học sinh sử dụng máy tính để làm bài tập."
+    },
+    {
+        "word": "school",
+        "pronunciation": "/skuːl/",
+        "meaning": "trường học",
+        "example_en": "I go to school every weekday.",
+        "example_vi": "Tôi đi học mỗi ngày trong tuần."
+    },
+    {
+        "word": "teacher",
+        "pronunciation": "/ˈtiːtʃər/",
+        "meaning": "giáo viên",
+        "example_en": "My English teacher is very kind.",
+        "example_vi": "Giáo viên tiếng Anh của tôi rất tốt bụng."
+    },
+    {
+        "word": "student",
+        "pronunciation": "/ˈstjuːdənt/",
+        "meaning": "học sinh, sinh viên",
+        "example_en": "She is a good student who studies hard.",
+        "example_vi": "Cô ấy là một học sinh tốt, học tập chăm chỉ."
+    },
+    {
+        "word": "friend",
+        "pronunciation": "/frend/",
+        "meaning": "bạn bè",
+        "example_en": "My best friend lives next door.",
+        "example_vi": "Bạn thân nhất của tôi sống ở nhà bên cạnh."
+    },
+    {
+        "word": "family",
+        "pronunciation": "/ˈfæməli/",
+        "meaning": "gia đình",
+        "example_en": "I love spending time with my family.",
+        "example_vi": "Tôi thích dành thời gian với gia đình."
+    },
+    {
+        "word": "music",
+        "pronunciation": "/ˈmjuːzɪk/",
+        "meaning": "âm nhạc",
+        "example_en": "Listening to music helps me relax.",
+        "example_vi": "Nghe nhạc giúp tôi thư giãn."
+    },
+    {
+        "word": "movie",
+        "pronunciation": "/ˈmuːvi/",
+        "meaning": "phim",
+        "example_en": "We watched a great movie last night.",
+        "example_vi": "Chúng tôi đã xem một bộ phim hay tối qua."
+    },
+    {
+        "word": "food",
+        "pronunciation": "/fuːd/",
+        "meaning": "thức ăn",
+        "example_en": "Vietnamese food is delicious.",
+        "example_vi": "Thức ăn Việt Nam rất ngon."
+    }
+]
